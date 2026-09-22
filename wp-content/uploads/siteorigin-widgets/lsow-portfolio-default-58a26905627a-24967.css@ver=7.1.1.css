@@ -1,0 +1,50 @@
+.so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block .lsow-load-more {
+  background: #f94213;
+}
+.so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block .lsow-load-more:hover {
+  background: #333;
+  color: #fff;
+}
+.so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block .lsow-block-filter-item a:hover,
+.so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block .lsow-block-filter-item.lsow-active a {
+  color: #f94213;
+}
+.so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block-header-1 .lsow-heading:after {
+  background-color: #f94213;
+}
+.so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block-header-6 .lsow-block-header .lsow-taxonomy-filter .lsow-filter-item.lsow-active:after {
+  border-color: #f94213;
+}
+.so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block-header-7 .lsow-taxonomy-filter .lsow-filter-item:hover a,
+.so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block-header-7 .lsow-taxonomy-filter .lsow-filter-item.lsow-active a {
+  color: #f94213;
+}
+.so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block-grid .lsow-block-inner {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+@media screen and (max-width: 800px) {
+  .so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block-grid .lsow-block-inner {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block-grid .lsow-block-inner {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+}
+.so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block-grid .lsow-block-inner .lsow-block-column {
+  padding: 20px;
+}
+@media screen and (max-width: 800px) {
+  .so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block-grid .lsow-block-inner .lsow-block-column {
+    padding: 10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .so-widget-lsow-portfolio-default-58a26905627a-24967 .lsow-block-grid .lsow-block-inner .lsow-block-column {
+    padding: 10px;
+  }
+}
